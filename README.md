@@ -1,5 +1,5 @@
-# Trivial API v.1
-* python pandas & fastAPI
+# Elige Mondo API v.1
+* python pandas & fastAPI (based on apifast)
 * gets random geography place from dataset  
 and provides a json to Trivial web & react native application 
 of this form
